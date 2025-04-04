@@ -1,0 +1,18 @@
+{
+    "name": "YILDIZ AI",
+    "short_name": "YILDIZ AI",
+    "description": "YILDIZ AI - Yapay Zeka Sohbet Asistanı",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#0a192f",
+    "theme_color": "#64b5f6",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
